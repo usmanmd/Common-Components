@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(connectloggerconnector:greet) -->
+    <connectloggerconnector:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(connectloggerconnector:greet) -->
